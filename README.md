@@ -12,3 +12,7 @@ Você pode usar a parte de treinamento do conjunto de dados para construir uma d
 
 Para este projeto utilizei o seguinte dataset: [Drugs](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/drug200.csv)
 
+## Resultados 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
