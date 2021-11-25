@@ -14,5 +14,5 @@ Para este projeto utilizei o seguinte dataset: [Drugs](https://cf-courses-data.s
 
 ## Resultados 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](decisiontree.png "Logo Title Text 1")
 
